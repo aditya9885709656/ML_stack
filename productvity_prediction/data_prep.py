@@ -1,7 +1,7 @@
 #Import necessary libraries
 import pandas as pd
 from sklearn.preprocessing import StandardScaler
-def pre_processing(data,target_column):
+def pre_processing(data):
     data['team'] = data['team'].astype(str)
     #Since value is 0 is majority in WIP(work in progress) colum, replacing null values with 0
     data['wip'].fillna(0, inplace=True)
