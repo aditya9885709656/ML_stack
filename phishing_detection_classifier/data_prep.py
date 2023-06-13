@@ -1,6 +1,6 @@
 #Import necessary libraries
 import pandas as pd
-def pre_processing(data,target_column):
+def pre_processing(data):
     #Converting categorical data to numeric data
     for column_name in data.columns:
         if(data[column_name].dtype == 'object'):
