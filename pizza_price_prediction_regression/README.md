@@ -1,0 +1,1 @@
+Here we have 5 companies, namely A, B, C, D and E these are pizza making restaurants basically located in Canada that aims to increase their profit margin by selling vegan as well as non-vegan pizza of specific size with a variety of toppings that appeal to everyone’s taste
